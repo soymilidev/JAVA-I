@@ -11,5 +11,5 @@ Realizar un diagrama UML para modelar las tareas y sus costos. Hacer las clases 
 
 
 ### Resolucion UML
-![UML-EmpresaConstructora](https://github.com/soymilidev/JAVA-I/blob/main/C9/C9-Ejercicio-Mesa-EmpresaConstructora/img/UML-EmpresaConstructora.png)
+![UML-EmpresaConstructora](https://github.com/soymilidev/JAVA-I/blob/main/C9/C9-Mesa-EmpresaConstructora/img/UML-EmpresaConstructora.png)
 
