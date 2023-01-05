@@ -37,4 +37,4 @@ Con estos aspectos a mano, podemos ver qué desventajas tiene la herencia para e
 - Cambiar el comportamiento de los vehículos en runtime es casi imposible. ¿Qué otra construcción vimos que podría solucionar este problema?
 
 ### Resolucion UML
-![UML-BatallaDelFuturo] ( https://github.com/soymilidev/JAVA-I/blob/main/C13/C13-Mesa-BatallaDelFuturo/img/UML-BatallaDelFuturo.png )
+![UML-BatallaDelFuturo]( https://github.com/soymilidev/JAVA-I/blob/main/C13/C13-Mesa-BatallaDelFuturo/img/UML-BatallaDelFuturo.png )

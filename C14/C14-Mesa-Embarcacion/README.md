@@ -19,4 +19,4 @@ En el caso de los yates debe ser posible **compararlos**. Un yate tiene mayor lu
 Es importante poder **evaluar** en un velero si es grande. Los veleros grandes son aquellos que superan los 4 mástiles.
 
 ### Resolucion UML
-![UML-Examen] ( https://github.com/soymilidev/JAVA-I/blob/main/C14/C14-Mesa-Embarcacion/img/UML-Embarcacion.png )
+![UML-Examen]( https://github.com/soymilidev/JAVA-I/blob/main/C14/C14-Mesa-Embarcacion/img/UML-Embarcacion.png )

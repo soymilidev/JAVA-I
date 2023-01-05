@@ -20,4 +20,4 @@ En el caso de los exámenes finales debe ser posible **compararlos**. Un examen 
 Es importante saber de un parcial **si es posible seguir recuperándolo**. Un parcial se puede recuperar hasta 3 veces si la unidad es inferior o igual a la 3 o 2 veces si la unidad es mayor a la 3.
 
 ### Resolucion UML
-![UML-Examen] ( https://github.com/soymilidev/JAVA-I/blob/main/C14/C14-Clase-Examen/img/UML-Examen.png )
+![UML-Examen]( https://github.com/soymilidev/JAVA-I/blob/main/C14/C14-Clase-Examen/img/UML-Examen.png )
