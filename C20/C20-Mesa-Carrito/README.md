@@ -22,4 +22,4 @@ Vamos a realizar el diagrama de clases y el código Java necesario para represen
 
 
 ### Resolucion UML
-![UML-Carrito]( https://github.com/soymilidev/JAVA-I/blob/main/C20/C20-Mesa-Carrito/img/UML-Carrito.png)
+![UML-Carrito]( https://github.com/soymilidev/JAVA-I/blob/main/C20/C20-Mesa-Carrito/img/UML-Carrito.jpg)
