@@ -11,4 +11,4 @@ B) La programación del método **obtenerReservas** que devuelva (no muestre por
 C) La programación del método **cantJugadores** que recibe como parámetro una posición y devuelva la cantidad de jugadores en esa posición. Si la posición no es ninguna de las mencionadas arrojar una excepción.
 
 ### Resolucion UML
-![UML-Jugador]( https://github.com/soymilidev/JAVA-I/blob/main/C18/C18-ClaseJugador/img/UML-Jugador.png )
+![UML-Jugador]( https://github.com/soymilidev/JAVA-I/blob/main/C18/C18-Clase-Jugador/img/UML-Jugador.png )

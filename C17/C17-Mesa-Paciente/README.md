@@ -8,6 +8,3 @@ En una clínica tiene un sistema que registra los datos del paciente cuando es i
 Para evitar posibles errores en la carga de datos debemos generar una Excepción personalizada que se genera cuando se crea el paciente, si la fecha de internación fuera posterior al día de hoy y cuando la fecha de alta es posterior al día de la internación.
 
 Para facilitar el problema se provee el código correspondiente al paciente. Comprobar en una clase main que las Excepciones creadas funcionan correctamente.
-
-### Resolucion UML
-![UML-Paciente]( https://github.com/soymilidev/JAVA-I/blob/main/C17/C17-Mesa-Paciente/img/UML-Paciente.png )
