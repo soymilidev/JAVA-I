@@ -17,5 +17,5 @@ Tanto a las casas como a los departamentos se les resta un porcentaje de calorí
 
 
 ### Resolucion UML
-![UML-Calefaccion](https://github.com/soymilidev/JAVA-I/blob/main/C9/C9-Clase-Calefaccion/img/UML-Calefaccion.jpg)
+![UML-Calefaccion](https://github.com/soymilidev/JAVA-I/blob/main/C09/C9-Clase-Calefaccion/img/UML-Calefaccion.jpg)
 

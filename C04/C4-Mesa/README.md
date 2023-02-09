@@ -33,4 +33,4 @@ La veterinaria requiere de un constante suministro de diferentes cajas de provis
 Detectar los atributos y métodos que debería tener el objeto caja de provisiones, considerar agregar un correspondiente constructor y diagramar con UML.
 
 ### Resolucion
-![UML-EjercicioMesa]( https://github.com/soymilidev/JAVA-I/blob/main/C4/C4-Mesa/UML-EjercicioMesa.png)
+![UML-EjercicioMesa]( https://github.com/soymilidev/JAVA-I/blob/main/C04/C4-Mesa/UML-EjercicioMesa.png)

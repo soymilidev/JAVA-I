@@ -11,4 +11,4 @@ Un banco por lo general ofrece diferentes servicios a personas, empresas e insti
 Crear un diagrama UML para la tarjeta de crédito y otro para la tarjeta de débito, con sus atributos y métodos incluyendo un constructor adecuado a cada una.
 
 #### Resolucion
-![UML-TarjetaCredito]( https://github.com/soymilidev/JAVA-I/blob/main/C4/C4-Clase/UML-TarjetaCredito.png) 
+![UML-TarjetaCredito]( https://github.com/soymilidev/JAVA-I/blob/main/C04/C4-Clase/UML-TarjetaCredito.png) 

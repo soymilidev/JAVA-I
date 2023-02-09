@@ -10,4 +10,4 @@ Los clientes a los cuales se les pide nombre, teléfono, domicilio, realizan los
 Modelar el pedido.
 
 ### Resolucion UML
-![UML-Pedido](https://github.com/soymilidev/JAVA-I/blob/main/C7/C7-Mesa-Pedido/img/UML-Pedido.png)
+![UML-Pedido](https://github.com/soymilidev/JAVA-I/blob/main/C07/C7-Mesa-Pedido/img/UML-Pedido.png)

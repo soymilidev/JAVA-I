@@ -18,5 +18,5 @@ Los estudiantes tienen un número de legajo académico y estudian. Los profesore
 
 
 ### Resolucion UML
-![UML-Clase-Mesa](https://github.com/soymilidev/JAVA-I/blob/main/C8/C8-Clase-Mesa/img/UML-Clase-Mesa.png)
+![UML-Clase-Mesa](https://github.com/soymilidev/JAVA-I/blob/main/C08/C8-Clase-Mesa/img/UML-Clase-Mesa.png)
 

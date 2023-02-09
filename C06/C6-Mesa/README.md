@@ -14,4 +14,4 @@ Deberemos poder preguntar la edad de un perro y si es un perro factible de perde
 lado, se puede enviar a adopción a un perro si no está lastimado y su peso es mayor a 5 kg.
 
 ### Resolución UML
-![ UML-Institucion]( https://github.com/soymilidev/JAVA-I/blob/main/C6/C6-Mesa/img/UML-Institucion.png)
+![ UML-Institucion]( https://github.com/soymilidev/JAVA-I/blob/main/C06/C6-Mesa/img/UML-Institucion.png)
